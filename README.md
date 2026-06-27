@@ -8,12 +8,14 @@ The project combines digital signal processing, interactive graphics, infrared p
 
 Developed for **COMP0207: Introduction to Electronics** at University College London.
 
-## Demo
+## Repository Structure
 
-Add a photograph or short gameplay GIF here:
-
-```markdown
-![PitchPop prototype](media/pitchpop-demo.gif)
+```text
+Voice-controlled Game on OLED/
+├── CAD_PitchPop.zip
+├── Report.pdf
+├── Photos.zip
+└── README.md
 ```
 
 A complete demonstration should show:
@@ -461,26 +463,6 @@ cd pitchpop
 
 ```text
 115200 baud
-```
-
-## Suggested Repository Structure
-
-```text
-pitchpop/
-├── firmware/
-│   └── pitchpop/
-│       └── pitchpop.ino
-├── docs/
-│   ├── electronics-report.pdf
-│   ├── system-architecture.png
-│   ├── circuit-diagram.png
-│   └── mechanical-design/
-├── media/
-│   ├── prototype.jpg
-│   └── pitchpop-demo.gif
-├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ## Experimental Results
