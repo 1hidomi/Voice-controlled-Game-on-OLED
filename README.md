@@ -571,16 +571,3 @@ Custom note sequences could turn the current obstacle system into a song-practic
 * Celine Wang
 * Jasmine Chen
 * Yutong Liu
-
-**Team 13 — COMP0207: Introduction to Electronics**
-
-MEng Robotics and Artificial Intelligence
-Department of Computer Science
-University College London
-
-## Academic Context
-
-This project was completed as coursework for UCL COMP0207.
-
-The repository is provided for demonstration, documentation and portfolio purposes. Current students should follow their institution's academic-integrity requirements before reusing any part of the implementation.
-
