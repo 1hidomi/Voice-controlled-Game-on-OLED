@@ -1,5 +1,3 @@
-# PitchPop
-
 **A gesture-activated, voice-controlled pitch-training game with an automated mechanical enclosure.**
 
 PitchPop is a real-time embedded game in which the player controls an on-screen ball by producing a vocal pitch within a target frequency range. The ball must pass through moving obstacles displayed on a 96×64 RGB OLED screen.
@@ -586,14 +584,3 @@ This project was completed as coursework for UCL COMP0207.
 
 The repository is provided for demonstration, documentation and portfolio purposes. Current students should follow their institution's academic-integrity requirements before reusing any part of the implementation.
 
-## License
-
-Add the licence selected by the project contributors.
-
-For example, to publish the code under the MIT License:
-
-```text
-MIT License
-```
-
-Then include the full licence text in a separate `LICENSE` file.
